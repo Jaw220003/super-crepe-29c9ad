@@ -76,6 +76,7 @@ nav ul li a:hover {
 html {font-size: 16px;}
 
 body {
+  background transparent: url(images/old-film-strip-frame.jpg);
   font-family: 'rambla', sans-serif;
   font-weight: false;
   line-height: 1.65;
