@@ -41,7 +41,7 @@
   src: url('fonts/rambla-v14-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-ul {
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -49,11 +49,11 @@ ul {
   background-color: #333333;
 }
 
-ul li {
+nav ul li {
   float: left;
 }
 
-ul li a {
+nav ul li a {
   display: block;
   color: white;
   text-align: center;
@@ -61,8 +61,16 @@ ul li a {
   text-decoration: none;
 }
 
-ul li a:hover {
+nav ul li a:hover {
   background-color: #111111;
+}
+
+#flexstart {
+  justify-content: flex-start;
+}
+
+#center {
+  align-items: center;
 }
 
 html {font-size: 16px;}
