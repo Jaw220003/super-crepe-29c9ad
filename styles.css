@@ -40,3 +40,77 @@
   font-weight: 400;
   src: url('fonts/rambla-v14-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #111111;
+}
+
+html {font-size: 16px;}
+
+body {
+  font-family: 'rambla', sans-serif;
+  font-weight: false;
+  line-height: 1.65;
+}
+
+p {
+  font-size: 1em;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: true;
+  line-height: 1.15;
+}
+
+h1,
+.text-size-h1 {
+  font-family: 'Galindo', sans-serif;
+  font-weight: 700;
+  margin-top: 0;
+  font-size: 3.05em;
+}
+
+h2,
+.text-size-h2 { font-size: 2.44em; }
+
+h3,
+.text-size-h3 { font-size: 1.95em; }
+
+h4,
+.text-size-h4 { font-size: 1.56em; }
+
+h5,
+.text-size-h5 { font-size: 1.25em; }
+
+.text-caption { font-size: 0.8em; }
+
+small,
+.text-small {
+  font-size: 0.64em;
+}
+              
