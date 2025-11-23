@@ -129,7 +129,9 @@ small,
 }
               
 footer {
-    display: block;
+    border-style: dotted;
+    border-width: 2px; 
+	display: block;
 	text-align: center;
     background-color: DarkSalmon;
 	padding: 3px;
@@ -147,12 +149,12 @@ footer {
 .buttons a {
         background: rgb(0, 0, 139);
         border: 1px solid gray;   
-	    border-radius: 1px;
+	    border-radius: 4px;
         color: #f0e33f;
-        margin: 1px;
-        padding: 1px;
+        margin: 2px;
+        padding: 2px;
         text-decoration: none;
-        font-size: 15px;
+        font-size: 10px;
 }
 
 .buttons a:hover {
