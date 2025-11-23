@@ -95,7 +95,7 @@ h2,
 h3,
 h4,
 h5 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Galindo', sans-serif;
   font-weight: true;
   line-height: 1.15;
 }
@@ -128,3 +128,35 @@ small,
   font-size: 0.64em;
 }
               
+footer {
+      text-align: center;
+      font-family: 'Galindo', sans-serif;
+      background-color: rgb(157,201,251);
+}
+
+.buttons {
+      border: 2px solid red;
+      padding: 10px 0px;
+      position: relative;
+      text-align: center;
+	  width: 100%;
+      color: rgb(255,59,59);
+}
+
+.buttons a {
+        background: rgb(0, 0, 139);
+        border: 1px solid red;
+        border-radius: 2px;
+        color: #f0e33f;
+        margin: 2px;
+        padding: 2px;
+        text-decoration: none;
+        font-size: 15px;
+}
+
+.buttons a:hover {
+        background: white;
+        border: 1px solid #131713;
+        color: #131713;
+      transform: scale(1.5);
+}
