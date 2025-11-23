@@ -129,9 +129,9 @@ small,
 }
               
 footer {
-      text-align: center;
-      
-      background-color: rgb(157,201,251);
+    text-align: center;
+    background-color: rgb(157,201,251);
+	padding: 3px;
 }
 
 .buttons {
