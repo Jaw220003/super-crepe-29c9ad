@@ -42,7 +42,7 @@
 }
 
 nav ul {
-  border-radius: 3px;
+  border-radius: 10px;
   word-spacing: 15px;
   list-style-type: none;
   margin: 0;
@@ -52,7 +52,7 @@ nav ul {
 }
 
 nav ul li {
-  display: center;
+  float: left;
 }
 
 nav ul li a {
