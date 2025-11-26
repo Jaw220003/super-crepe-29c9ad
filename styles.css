@@ -52,7 +52,7 @@ nav ul {
 }
 
 nav ul li {
-  display: flex;
+  display: center;
 }
 
 nav ul li a {
