@@ -51,10 +51,6 @@ nav ul {
   background-color: #333333;
 }
 
-nav ul li {
-  float: left;
-}
-
 nav ul li a {
   display: block;
   color: white;
