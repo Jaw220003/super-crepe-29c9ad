@@ -45,12 +45,9 @@ nav ul {
   border-radius: 10px;
   word-spacing: 20px;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
   width: 100%;
   overflow: hidden;
   background-color: #333333;
-  gap: 50px;
 }
 
 nav ul li a {
@@ -60,7 +57,7 @@ nav ul li a {
   padding: 14px 16px;
   text-decoration: none;
   float: left;
-
+  gap: 50px;
 }
 
 nav ul li a:hover {
