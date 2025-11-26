@@ -42,6 +42,7 @@
 }
 
 nav ul {
+  border-radius: 3px;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -50,7 +51,7 @@ nav ul {
 }
 
 nav ul li {
-  float: left;
+  float: center;
 }
 
 nav ul li a {
