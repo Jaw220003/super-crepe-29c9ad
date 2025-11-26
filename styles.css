@@ -163,3 +163,10 @@ footer {
         color: #131713;
       transform: scale(1.5);
 }
+
+.container {
+ display: flex;
+ flex-direction: column; 
+ padding: 10px;
+ margin: 0 auto;
+}
