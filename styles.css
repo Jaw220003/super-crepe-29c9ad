@@ -131,10 +131,9 @@ small,
               
 footer {
     border-style: dotted;
-    border-width: 2px; 
 	display: block;
 	text-align: center;
-    background-color: DarkSalmon;
+    background-color: #4f4e3d;
     color: white;
 }
 
