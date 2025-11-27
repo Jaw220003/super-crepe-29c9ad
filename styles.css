@@ -42,12 +42,10 @@
 }
 
 nav ul {
-  word-spacing: 5px;
+  word-spacing: 10px;
   list-style-type: none;
-  width: 100%;
   padding: 0;
   margin: 0;
-  overflow: hidden;
   background-color: #333333;
   display: flex;	
   justify-content: center;
