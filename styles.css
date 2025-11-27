@@ -41,7 +41,7 @@
   src: url('fonts/rambla-v14-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
 }
 
-nav {
+nav ul {
   border-radius: 10px;
   word-spacing: 20px;
   list-style-type: none;
