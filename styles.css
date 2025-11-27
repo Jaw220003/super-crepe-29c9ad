@@ -49,6 +49,7 @@ nav ul {
   margin: 0;
   overflow: hidden;
   background-color: #333333;
+  display: flex;	
   justify-content: center;
 }
 
