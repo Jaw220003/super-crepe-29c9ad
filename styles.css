@@ -48,6 +48,7 @@ nav ul {
   width: 100%;
   overflow: hidden;
   background-color: #333333;
+  flex-direction: row;
 }
 
 nav ul li a {
