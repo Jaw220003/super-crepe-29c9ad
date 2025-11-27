@@ -42,13 +42,12 @@
 }
 
 nav ul {
-  border-radius: 10px;
+  border-radius: 15px;
   word-spacing: 20px;
   list-style-type: none;
   width: 95%;
   overflow: hidden;
   background-color: #333333;
-  flex-direction: row;
 }
 
 nav ul li a {
