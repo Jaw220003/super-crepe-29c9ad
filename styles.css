@@ -87,12 +87,9 @@ body {
 
 article {
     border: 5px solid rgb(234,153,153);
-    border-radius: px;
-    background-color: rgb(240,227,63);
+    border-radius: 5px;
+    background-color: rgb(64, 60, 0);
     text-align: center;
-    margin-top: 2px;
-    margin-bottom: 2px;
-    padding: 1.5px;
 }
 
 
