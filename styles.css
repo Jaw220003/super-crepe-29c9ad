@@ -154,11 +154,11 @@ footer {
       position: relative;
       text-align: center;
 	  width: 100%;
-      color: rgb(255,59,59);
+      color: rgb(161, 163, 108);
 }
 
 .buttons a {
-        background: rgb(0, 0, 139);
+        background: rgb(148, 148, 145);
         border: 1px solid gray;   
 	    border-radius: 4px;
         color: #f0e33f;
