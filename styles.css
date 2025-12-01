@@ -90,7 +90,8 @@ article {
     border-radius: 5px;
     background-color: rgb(64, 60, 0);
     text-align: center;
-	width: 80%;
+	width: 85%;
+	float: center;
 }
 
 aside {
