@@ -92,6 +92,8 @@ article {
     text-align: center;
 	width: 85%;
 	float: center;
+	margin: 0 auto;
+	padding: 0 auto;
 }
 
 aside {
