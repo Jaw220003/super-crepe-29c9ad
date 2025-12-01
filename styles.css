@@ -91,14 +91,13 @@ article {
     background-color: rgb(64, 60, 0);
     text-align: center;
 }
-
 aside {
-  width: 40%;
-  justify-content: center;
-  margin: 5px;
-  background-color: rgb(240,227,63);
-  padding: 10px 20px;
-  border: 2px solid #FF0000;
+width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+ font-family: 'rambla', sans-serif;
+  background-color: lightgray;
 }
 
 
