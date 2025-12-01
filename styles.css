@@ -91,12 +91,13 @@ article {
     background-color: rgb(64, 60, 0);
     text-align: center;
 }
+
 aside {
-width: 30%;
+  width: 30%;
   padding-left: 15px;
   margin-left: 15px;
   float: right;
- font-family: 'rambla', sans-serif;
+  font-family: 'rambla', sans-serif;
   background-color: lightgray;
 }
 
