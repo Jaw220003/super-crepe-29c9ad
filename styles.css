@@ -107,9 +107,9 @@ article {
 
 aside {
   width: 20%;
-  padding-left: 15px;
-  margin-left: 15px;
-  float: right;
+  padding: 15px;
+  margin: 15px;
+  justify-content: center;
   font-family: 'rambla', sans-serif;
   background-color: lightgray;
 }
