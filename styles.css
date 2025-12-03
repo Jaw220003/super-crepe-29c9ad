@@ -106,7 +106,7 @@ article {
 }
 
 aside {
-  width: 30%;
+  width: 25%;
   padding-left: 15px;
   margin-left: 15px;
   float: right;
@@ -115,6 +115,8 @@ aside {
 }
 
 .container {
+ display: flex;
+ flex-direction: column;  
  width: 85%; 
  padding: 15px;
  margin: 0 auto
