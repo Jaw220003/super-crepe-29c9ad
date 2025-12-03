@@ -107,8 +107,8 @@ article {
 
 aside {
   width: 20%;
-  padding: 15px;
-  margin: 15px;
+  padding-right: 15px;
+  margin-right: 15px;
   display: flex;
   justify-content: center;
   font-family: 'rambla', sans-serif;
