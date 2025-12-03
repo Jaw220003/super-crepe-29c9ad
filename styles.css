@@ -157,6 +157,7 @@ small,
               
 footer {
     border-style: dotted;
+	font-family: 'rambla', sans-serif;
 	text-align: center;
     background-color: #4f4e3d;
     color: white;
