@@ -170,6 +170,8 @@ footer {
 	text-align: center;
     background-color: #4f4e3d;
     color: white;
+	margin: 0 auto;
+	padding: 0 auto;
 }
 
 .buttons {
