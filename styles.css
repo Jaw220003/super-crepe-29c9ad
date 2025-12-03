@@ -109,7 +109,7 @@ aside {
   width: 20%;
   padding: 15px;
   margin: 15px;
-  justify-content: center;
+  justify-content: right;
   font-family: 'rambla', sans-serif;
   background-color: lightgray;
 }
