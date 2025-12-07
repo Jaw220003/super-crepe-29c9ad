@@ -105,6 +105,10 @@ article {
 	position: relative;
 }
 
+section {
+   color: #ffffff;
+}
+
 aside {
   width: 20%;
   padding: 15px;
