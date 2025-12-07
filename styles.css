@@ -136,6 +136,12 @@ aside {
  margin: 0 auto
 }
 
+form {
+  text-align: center;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
 p {
   font-size: 1em;
   color: #ffffff;
